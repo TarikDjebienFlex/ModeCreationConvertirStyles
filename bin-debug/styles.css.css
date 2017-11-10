@@ -1,0 +1,13 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace mx "library://ns.adobe.com/flex/mx";
+
+
+s|Label.blueUnderlinedLabelStyle
+{
+	backgroundColor: #3F31C8;
+	color: #B7C6F8;
+	fontSize: 21;
+	textDecoration: underline;
+}
+	
